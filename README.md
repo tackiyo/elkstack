@@ -1,4 +1,1 @@
-# elkstack
-Elastic Stack
 
-## Elasticsearch!!
